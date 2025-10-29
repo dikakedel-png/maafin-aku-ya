@@ -1,0 +1,21 @@
+/* CSS untuk Animasi Hati */
+.heart {
+    color: #d9534f; /* Warna hati */
+    font-size: 40px;
+    display: inline-block;
+    animation: heartbeat 1.5s infinite; /* Terapkan animasi 'heartbeat' */
+}
+
+/* Keyframes untuk mendefinisikan gerakan animasi */
+@keyframes heartbeat {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.15); /* Membesar */
+    }
+    100% {
+        transform: scale(1); /* Kembali normal */
+    }
+}
+

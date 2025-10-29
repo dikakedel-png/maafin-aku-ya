@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surat Maaf dari Hati ❤️</title>
+    <style>
+        /* CSS untuk mempercantik tampilan */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffe0e6; /* Warna latar belakang lembut (pink muda) */
+            color: #4a4a4a;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #d9534f; /* Warna merah untuk penekanan */
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #5cb85c; /* Warna hijau untuk tombol positif */
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #449d44;
+        }
+
+        .note {
+            margin-top: 30px;
+            font-style: italic;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Untuk [Nama Pacar], Maafkan Aku</h1>
+
+        <p>
+            Sayang, aku tahu aku telah membuat kesalahan. Aku **benar-benar menyesal** atas [sebutkan singkat kesalahanmu].
+        </p>
+
+        <p>
+            Tidak ada kata yang bisa menggambarkan betapa aku peduli padamu. Kamu adalah segalanya bagiku, dan menyakitimu adalah hal terakhir yang aku inginkan.
+        </p>
+
+        <p>
+            Aku janji akan berusaha lebih baik, lebih mendengarkan, dan lebih menghargai perasaanmu. **Tolong beri aku kesempatan untuk membuktikan ketulusanku.**
+        </p>
+
+        <a href="https://wa.me/[Nomor WhatsApp Pacar]?text=Aku%20mengerti%20dan%20aku%20maafkan%20kamu%2C%20Sayang!%20" class="button">Klik jika kamu mau memaafkan aku</a>
+
+        <div class="note">
+            Aku mencintaimu, sekarang dan selamanya. <br>
+            Dari, [Nama Kamu]
+        </div>
+
+    </div>
+
+</body>
+</html>
